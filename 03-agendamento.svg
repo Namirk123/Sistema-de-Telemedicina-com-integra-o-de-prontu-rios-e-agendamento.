@@ -1,0 +1,55 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+  <rect width="800" height="500" fill="#ffffff" stroke="#999" stroke-width="2"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="#e8e8e8" stroke="#999"/>
+  <text x="60" y="36" font-size="18" fill="#555">MedConecta</text>
+  <text x="740" y="36" font-size="13" text-anchor="end" fill="#888">✕ Fechar</text>
+
+  <!-- Stepper -->
+  <circle cx="120" cy="100" r="14" fill="#999"/>
+  <text x="120" y="105" font-size="11" text-anchor="middle" fill="#fff">1</text>
+  <text x="120" y="130" font-size="11" text-anchor="middle" fill="#666">Especialidade</text>
+  <line x1="150" y1="100" x2="330" y2="100" stroke="#ccc" stroke-width="2"/>
+
+  <circle cx="360" cy="100" r="14" fill="#ccc"/>
+  <text x="360" y="105" font-size="11" text-anchor="middle" fill="#666">2</text>
+  <text x="360" y="130" font-size="11" text-anchor="middle" fill="#666">Médico</text>
+  <line x1="390" y1="100" x2="570" y2="100" stroke="#ccc" stroke-width="2"/>
+
+  <circle cx="600" cy="100" r="14" fill="#ccc"/>
+  <text x="600" y="105" font-size="11" text-anchor="middle" fill="#666">3</text>
+  <text x="600" y="130" font-size="11" text-anchor="middle" fill="#666">Horário</text>
+  <line x1="630" y1="100" x2="720" y2="100" stroke="#ccc" stroke-width="2"/>
+
+  <circle cx="740" cy="100" r="14" fill="#ccc"/>
+  <text x="740" y="105" font-size="11" text-anchor="middle" fill="#666">4</text>
+  <text x="740" y="130" font-size="11" text-anchor="middle" fill="#666">Confirmar</text>
+
+  <!-- Triagem sugerida -->
+  <rect x="80" y="165" width="640" height="50" rx="6" fill="#f4f4f4" stroke="#ccc"/>
+  <text x="100" y="195" font-size="12" fill="#666">Baseado na sua triagem, sugerimos: Cardiologia e Clínica Geral</text>
+
+  <!-- Grid de especialidades -->
+  <rect x="80" y="235" width="140" height="80" rx="6" fill="#e0e0e0" stroke="#999" stroke-width="2"/>
+  <text x="150" y="280" font-size="12" text-anchor="middle" fill="#444">Cardiologia</text>
+
+  <rect x="240" y="235" width="140" height="80" rx="6" fill="#fafafa" stroke="#ccc"/>
+  <text x="310" y="280" font-size="12" text-anchor="middle" fill="#777">Dermatologia</text>
+
+  <rect x="400" y="235" width="140" height="80" rx="6" fill="#fafafa" stroke="#ccc"/>
+  <text x="470" y="280" font-size="12" text-anchor="middle" fill="#777">Pediatria</text>
+
+  <rect x="560" y="235" width="140" height="80" rx="6" fill="#fafafa" stroke="#ccc"/>
+  <text x="630" y="280" font-size="12" text-anchor="middle" fill="#777">Clínica Geral</text>
+
+  <!-- Convênio -->
+  <text x="80" y="345" font-size="12" fill="#777">✓ Coberto pelo seu convênio: Unimed</text>
+
+  <!-- Botão continuar -->
+  <rect x="560" y="400" width="160" height="42" rx="4" fill="#cfcfcf" stroke="#999"/>
+  <text x="640" y="426" font-size="14" text-anchor="middle" fill="#444">Continuar</text>
+  <text x="80" y="426" font-size="13" fill="#888">‹ Voltar</text>
+
+  <text x="400" y="480" font-size="11" text-anchor="middle" fill="#aaa">Wireframe de baixa fidelidade — Agendamento (passo 1 de 4)</text>
+</svg>

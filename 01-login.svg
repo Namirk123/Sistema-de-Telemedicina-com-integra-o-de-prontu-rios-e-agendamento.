@@ -1,0 +1,39 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+  <rect width="800" height="500" fill="#ffffff" stroke="#999" stroke-width="2"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="#e8e8e8" stroke="#999"/>
+  <circle cx="35" cy="30" r="14" fill="#bbb"/>
+  <text x="60" y="36" font-size="18" fill="#555">MedConecta</text>
+
+  <!-- Card central -->
+  <rect x="250" y="110" width="300" height="320" rx="6" fill="#fafafa" stroke="#aaa" stroke-width="1.5"/>
+  <text x="400" y="150" font-size="18" text-anchor="middle" fill="#555">Entrar na sua conta</text>
+
+  <!-- Campo email -->
+  <text x="275" y="185" font-size="12" fill="#777">E-mail</text>
+  <rect x="275" y="192" width="250" height="34" rx="3" fill="#fff" stroke="#bbb"/>
+
+  <!-- Campo senha -->
+  <text x="275" y="248" font-size="12" fill="#777">Senha</text>
+  <rect x="275" y="255" width="250" height="34" rx="3" fill="#fff" stroke="#bbb"/>
+
+  <!-- Esqueci senha -->
+  <text x="525" y="305" font-size="11" text-anchor="end" fill="#888">Esqueci minha senha</text>
+
+  <!-- Botão entrar -->
+  <rect x="275" y="320" width="250" height="40" rx="4" fill="#cfcfcf" stroke="#999"/>
+  <text x="400" y="345" font-size="14" text-anchor="middle" fill="#444">ENTRAR</text>
+
+  <!-- Divisor -->
+  <line x1="275" y1="385" x2="525" y2="385" stroke="#ddd"/>
+
+  <!-- Cadastro -->
+  <text x="400" y="410" font-size="12" text-anchor="middle" fill="#777">Sou paciente e quero me cadastrar</text>
+
+  <!-- Seletor de perfil -->
+  <rect x="600" y="16" width="170" height="28" rx="14" fill="#fff" stroke="#bbb"/>
+  <text x="685" y="34" font-size="11" text-anchor="middle" fill="#777">Perfil: Paciente ▾</text>
+
+  <text x="400" y="480" font-size="11" text-anchor="middle" fill="#aaa">Wireframe de baixa fidelidade — Tela de Login</text>
+</svg>

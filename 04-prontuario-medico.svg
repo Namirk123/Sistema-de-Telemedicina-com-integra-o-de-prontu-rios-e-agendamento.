@@ -1,0 +1,47 @@
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+  <rect width="800" height="500" fill="#ffffff" stroke="#999" stroke-width="2"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="#e8e8e8" stroke="#999"/>
+  <text x="30" y="36" font-size="18" fill="#555">MedConecta — Área do Médico</text>
+
+  <!-- Dados do paciente -->
+  <rect x="0" y="60" width="800" height="70" fill="#f2f2f2" stroke="#ddd"/>
+  <circle cx="45" cy="95" r="20" fill="#ccc"/>
+  <text x="80" y="90" font-size="15" fill="#444">João Pereira, 42 anos</text>
+  <text x="80" y="110" font-size="11" fill="#888">Convênio: Unimed · Última consulta: 15/06/2026</text>
+  <rect x="640" y="78" width="130" height="34" rx="4" fill="#e0e0e0" stroke="#999"/>
+  <text x="705" y="100" font-size="12" text-anchor="middle" fill="#555">Iniciar vídeo</text>
+
+  <!-- Abas -->
+  <text x="30" y="155" font-size="13" fill="#333" font-weight="bold">Histórico</text>
+  <text x="120" y="155" font-size="13" fill="#999">Exames</text>
+  <text x="200" y="155" font-size="13" fill="#999">Receitas</text>
+  <line x1="20" y1="163" x2="90" y2="163" stroke="#666" stroke-width="2"/>
+
+  <!-- Linha do tempo do histórico -->
+  <line x1="45" y1="185" x2="45" y2="400" stroke="#ccc" stroke-width="2"/>
+
+  <circle cx="45" cy="195" r="6" fill="#999"/>
+  <rect x="65" y="180" width="690" height="55" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="80" y="200" font-size="11" fill="#888">15/06/2026 — Dra. Ana Souza (Cardiologia)</text>
+  <text x="80" y="220" font-size="12" fill="#555">Hipertensão controlada. Ajuste de dosagem de losartana.</text>
+
+  <circle cx="45" cy="255" r="6" fill="#999"/>
+  <rect x="65" y="240" width="690" height="55" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="80" y="260" font-size="11" fill="#888">02/06/2026 — Triagem automática</text>
+  <text x="80" y="280" font-size="12" fill="#555">Sintomas cutâneos relatados — encaminhado à Dermatologia.</text>
+
+  <circle cx="45" cy="315" r="6" fill="#999"/>
+  <rect x="65" y="300" width="690" height="55" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="80" y="320" font-size="11" fill="#888">10/03/2026 — Dr. Carlos Lima (Clínico Geral)</text>
+  <text x="80" y="340" font-size="12" fill="#555">Check-up de rotina. Exames solicitados: hemograma completo.</text>
+
+  <!-- Novo registro -->
+  <rect x="65" y="365" width="690" height="70" rx="4" fill="#fff" stroke="#bbb" stroke-dasharray="4"/>
+  <text x="80" y="385" font-size="11" fill="#999">+ Adicionar novo registro clínico a este prontuário</text>
+  <rect x="620" y="400" width="120" height="28" rx="4" fill="#cfcfcf" stroke="#999"/>
+  <text x="680" y="419" font-size="11" text-anchor="middle" fill="#444">Salvar registro</text>
+
+  <text x="400" y="480" font-size="11" text-anchor="middle" fill="#aaa">Wireframe de baixa fidelidade — Prontuário Eletrônico (visão do médico)</text>
+</svg>
